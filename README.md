@@ -31,7 +31,7 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 
 ## Learning objectives
 
-LEARNING_OBJECTIVES
+[ADD AN ITEMIZED LIST OF LEARNING OBJECTIVES.]
 
 ## Is this course for me?
 
