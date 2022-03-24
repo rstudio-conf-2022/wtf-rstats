@@ -25,7 +25,9 @@ can remove these instructions from the README.
 
 ## Overview
 
-ABSTRACT
+This is a two-day hands on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle. You'll learn holistic workflows that address the most common sources of friction in data analysis. We’ll work on project-oriented workflows, version control for data science (Git/GitHub!), and how to plan for collaboration, communication, and iteration (incl. RMarkdown).
+
+At the conclusion of the workshop, you should have: knowledge of your R installation that enhances your ability to maintain it, workflows that facilitate collaboration with yourself or others (including version control and strategies for file systems), tools to improve debugging processes, and methods to address repetitive tasks with the purrr package.
 
 ## Learning objectives
 
