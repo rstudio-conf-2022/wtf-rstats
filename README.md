@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+What They Forgot to Teach You About R
 ================
 
 ### rstudio::conf 2022
