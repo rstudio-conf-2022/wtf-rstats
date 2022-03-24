@@ -3,7 +3,7 @@ What They Forgot to Teach You About R
 
 ### rstudio::conf 2022
 
-by INSTRUCTOR_NAME
+by Shannon McClintock Pileggi + Jenny Bryan + David Aja
 
 -----
 
