@@ -35,7 +35,13 @@ LEARNING_OBJECTIVES
 
 ## Is this course for me?
 
-THREE_QUESTIONS
+This course will be appropriate for you if you answer yes to these questions:
+
+- Have you been using R for a while and feel there might be better ways to organize your R life, but don't know what they are?
+
+- Do you want to streamline your workflow for doing analysis and automating repetitive tasks in R?
+
+- Are you willing to get into the weeds of your R installation, project organization, error messages, and source code?
 
 ## Prework
 
