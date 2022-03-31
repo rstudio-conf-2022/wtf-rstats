@@ -44,14 +44,17 @@ Personal R Administration
  when starting R. Modify these files for your personal needs and preferences.
  
  - Employ strategies for package management, including establishing where packages
- are installed, how to upgrade, and how to downgrade.
+ are installed, how to upgrade and downgrade, how to install
+ from source, and actual package managers.
  
  - Locate and navigate R package source code for better understanding of
  internal operations or troubleshooting.
+ 
+ - Identify what is in your current R session (packages, versions); introduce {renv}
+ to create a reproducible environment.
 
 Iterating well with purrr
 
-[ADD AN ITEMIZED LIST OF LEARNING OBJECTIVES.]
 
 ## Is this course for me?
 
