@@ -31,6 +31,26 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 
 ## Learning objectives
 
+Project-oriented workflow
+
+Git/GitHub
+
+Personal R Administration
+
+ - Identify where software and configuration files are located on your operating system 
+ via base R, {fs}, {usethis}, and {devtools} functions.
+
+ - Explain the scope and purpose of `.Renviron` and `.Rprofile` configuration files
+ when starting R. Modify these files for your personal needs and preferences.
+ 
+ - Employ strategies for package management, including establishing where packages
+ are installed, how to upgrade, and how to downgrade.
+ 
+ - Locate and navigate R package source code for better understanding of
+ internal operations or troubleshooting.
+
+Iterating well with purrr
+
 [ADD AN ITEMIZED LIST OF LEARNING OBJECTIVES.]
 
 ## Is this course for me?
