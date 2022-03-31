@@ -82,7 +82,7 @@ Shannon Pileggi PhD is a Data Scientist with more than ten years of experience p
 
 Jenny is a software engineer at RStudio, on the tidyverse team. She is a recovering biostatistician who takes special delight in eliminating the small agonies of data analysis. Jenny is the maintainer of many R packages, in the areas of data import, web APIs, Git/GitHub, and package development. She has been working in R/S for over 20 years and is a member of the R Foundation. Prior to joining RStudio, she was a professor of statistics at the University of British Columbia.
 
-David Aja is a Solutions Engineer at RStudio. 
+David Aja is a Solutions Engineer at RStudio. He helps data scientists and IT communicate about their needs. Before joining RStudio, he worked as a data scientist in the public sector.
 
 -----
 
