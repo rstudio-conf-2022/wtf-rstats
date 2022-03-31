@@ -50,8 +50,10 @@ Personal R Administration
  - Locate and navigate R package source code for better understanding of
  internal operations or troubleshooting.
  
- - Identify what is in your current R session (packages, versions); introduce {renv}
+ - Identify what is in your current R session (packages, versions); briefly introduce {renv}
  to create a reproducible environment.
+ 
+Debugging 
 
 Iterating well with purrr
 
