@@ -29,6 +29,8 @@ This is a two-day hands on workshop designed for experienced R and RStudio users
 
 At the conclusion of the workshop, you should have: knowledge of your R installation that enhances your ability to maintain it, workflows that facilitate collaboration with yourself or others (including version control and strategies for file systems), tools to improve debugging processes, and methods to address repetitive tasks with the purrr package.
 
+-----
+
 ## Learning objectives
 
 ### Project-oriented workflow (2 sessions)
@@ -82,6 +84,7 @@ some of these strategies within RStudio.
 
 ### Iterating well with purrr (1 session)
 
+-----
 
 ## Is this course for me?
 
@@ -93,12 +96,16 @@ This course will be appropriate for you if you answer yes to these questions:
 
 - Are you willing to get into the weeds of your R installation, project organization, error messages, and source code?
 
+-----
+
 ## Prework
 
 Please follow Happy Git and GitHub for the UseR [Ch 3.1 Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up).
 
 If you have questions, please ask on the community.rstudio.com thread. 
 <need to create>
+
+-----
 
 ## Schedule
 
@@ -125,6 +132,8 @@ If you have questions, please ask on the community.rstudio.com thread.
 | 13:30 - 15:00 | Git/GitHub 2 of 2        |
 | 15:00 - 15:30 | *Coffee break*   |
 | 15:30 - 17:00 | Iterating well with purrr        |
+
+-----
 
 ## Instructors
 
