@@ -31,7 +31,7 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 
 ## Learning objectives
 
-Project-oriented workflow
+### Project-oriented workflow
 
 - Identify where installed packages live locally.
 
@@ -47,9 +47,9 @@ using blank slates and restarting R frequently.
 - Differentiate workflow elements, analysis inputs, and analysis outputs
 in project structure to create navigable programming interfaces.
 
-Git/GitHub
+### Git/GitHub
 
-Personal R Administration
+### Personal R Administration
 
  - Identify where software and configuration files are located on your operating system 
  via base R, {fs}, {usethis}, and {devtools} functions.
@@ -67,9 +67,9 @@ Personal R Administration
  - Identify what is in your current R session (packages, versions); briefly introduce {renv}
  to create a reproducible environment.
  
-Debugging 
+### Debugging 
 
-Iterating well with purrr
+### Iterating well with purrr
 
 
 ## Is this course for me?
