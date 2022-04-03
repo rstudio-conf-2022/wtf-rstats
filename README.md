@@ -31,7 +31,7 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 
 ## Learning objectives
 
-### Project-oriented workflow
+### Project-oriented workflow (2 sessions)
 
 - Identify where installed packages live locally.
 
@@ -47,9 +47,9 @@ using blank slates and restarting R frequently.
 - Differentiate workflow elements, analysis inputs, and analysis outputs
 in project structure to create navigable programming interfaces.
 
-### Git/GitHub
+### Git/GitHub (2 sessions)
 
-### Personal R Administration
+### Personal R Administration (2 sessions)
 
  - Identify where software and configuration files are located on your operating system 
  via base R, {fs}, {usethis}, and {devtools} functions.
@@ -67,9 +67,20 @@ in project structure to create navigable programming interfaces.
  - Identify what is in your current R session (packages, versions); briefly introduce {renv}
  to create a reproducible environment.
  
-### Debugging 
+### Debugging (1 session)
 
-### Iterating well with purrr
+- Locate and view source code.
+
+- Examine source code to generate insights on errors.
+
+- Distinguish between strategies for debugging your own code 
+versus someone else's code.
+
+- Discuss debugging functions (`traceback()`, `browser()`, `debug()`, `trace()`, and `recover()`) and the additional benefits of employing
+some of these strategies within RStudio. 
+
+
+### Iterating well with purrr (1 session)
 
 
 ## Is this course for me?
@@ -101,7 +112,7 @@ If you have questions, please ask on the community.rstudio.com thread.
 | 12:30 - 13:30 | *Lunch break*    |
 | 13:30 - 15:00 | Debugging        |
 | 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | Git/GitHub 1       |
+| 15:30 - 17:00 | Git/GitHub 1 of 2      |
 
 ### Day 2
 
@@ -111,7 +122,7 @@ If you have questions, please ask on the community.rstudio.com thread.
 | 10:30 - 11:00 | *Coffee break*   |
 | 11:00 - 12:30 | Personal R Administration 2 of 2        |
 | 12:30 - 13:30 | *Lunch break*    |
-| 13:30 - 15:00 | Git/GitHub 2        |
+| 13:30 - 15:00 | Git/GitHub 2 of 2        |
 | 15:00 - 15:30 | *Coffee break*   |
 | 15:30 - 17:00 | Iterating well with purrr        |
 
