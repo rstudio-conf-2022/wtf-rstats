@@ -89,9 +89,9 @@ resolve them.
  
 ### Debugging (1 session)
 
-- Locate and view source code.
+- Locate and view function source code.
 
-- Examine source code to generate insights on errors.
+- Examine function source code to generate insights on errors.
 
 - Distinguish between strategies for debugging your own code 
 versus someone else's code.
