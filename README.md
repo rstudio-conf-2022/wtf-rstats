@@ -51,6 +51,24 @@ in project structure to create navigable programming interfaces.
 
 ### Git/GitHub (2 sessions)
 
+- Employ version control via git and GitHub with operations including
+commit, push and pull.
+
+- Fork and clone from remote repositories.
+
+- Describe importance of viewing commits and diffs.
+
+- Compile markdown reports from an R script for sharing code products on GitHub.
+
+- Create a project web site via GitHub Pages.
+
+- Compare and execute different methods to re-visit previous versions of projects.
+
+- Utilize branches as safety nets for code experimentation.
+
+- Explain situations that can create merge conflicts and strategies to 
+resolve them.
+
 ### Personal R Administration (2 sessions)
 
  - Identify where software and configuration files are located on your operating system 
