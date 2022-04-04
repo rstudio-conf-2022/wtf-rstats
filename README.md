@@ -84,6 +84,21 @@ some of these strategies within RStudio.
 
 ### Iterating well with purrr (1 session)
 
+- Describe drawbacks of copying and pasting R code.
+
+- Complete tidyverse style code with the pipe operator (`%>%`).
+
+- Accomplish iteration through vectorized functions.
+
+- Leverage `group_by()` as an iterative technique.
+
+- Explain differences between base R and {purrr} iterative functions.
+
+- Explore lists as an object to store information of varying types and sizes; explain how to extract elements from a list.
+
+- Apply functions from the `purrr::map_` family to perform iteration
+as an alternative to loops.
+
 -----
 
 ## Is this course for me?
