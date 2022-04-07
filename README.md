@@ -93,6 +93,8 @@ resolve them.
 
 - Examine function source code to generate insights on errors.
 
+- Apply strategies to effectively search GitHub.
+
 - Distinguish between strategies for debugging your own code 
 versus someone else's code.
 
