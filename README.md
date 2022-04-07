@@ -41,7 +41,8 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 
 - Apply best practices for working in RStudio projects, including
 
-   + Employing robust file paths through the {here} and {fs} packages.
+   + Creating robust file paths that travel well in time and space (someone else's 
+   computer, your computer a year from now) through the {here} and {fs} packages.
    
    + Constructing human and machine readable file names that sort nicely.
 
