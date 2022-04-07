@@ -109,7 +109,7 @@ some of these strategies within RStudio.
 
 - Describe drawbacks of copying and pasting R code.
 
-- Complete tidyverse style code with the pipe operator (`%>%`).
+- Complete tidyverse style code with the pipe operator (`%>%` in {magrittr}, and the newer `|>` in base R).
 
 - Accomplish iteration through vectorized functions.
 
