@@ -35,17 +35,21 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 
 ### Project-oriented workflow (2 sessions)
 
+- Define an RStudio **P**roject.
+
 - Describe benefits of project oriented workflows.
 
 - Apply best practices for working in RStudio projects, including
-using blank slates and restarting R frequently.
 
-- Employ robust file paths through the {here} and {fs} packages.
+   + Employing robust file paths through the {here} and {fs} packages.
+   
+   + Constructing human and machine readable file names that sort nicely.
 
-- Construct human and machine readable file names that sort nicely.
-
-- Differentiate workflow elements, analysis inputs, and analysis outputs
+   + Differentiating workflow elements, analysis inputs, and analysis outputs
 in project structure to create navigable programming interfaces.
+
+   + Using blank slates and restarting R frequently.
+
 
 ### Git/GitHub (2 sessions)
 
