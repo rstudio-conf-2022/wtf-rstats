@@ -36,7 +36,7 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 ### Project-oriented workflow (2 sessions)
 
 - Establish the concept of the project as the basic organizational unit of work.
-  RStudio offer rich support for this way of working via **P**rojects.
+  RStudio offers rich support for this way of working via **P**rojects.
 
 - Describe benefits of project oriented workflows.
 
