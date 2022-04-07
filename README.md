@@ -25,7 +25,7 @@ can remove these instructions from the README.
 
 ## Overview
 
-This is a two-day hands on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle. You'll learn holistic workflows that address the most common sources of friction in data analysis. We’ll work on project-oriented workflows, version control for data science (Git/GitHub!), and how to plan for collaboration, communication, and iteration (incl. RMarkdown).
+This is a two-day hands on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle. You'll learn holistic workflows that address the most common sources of friction in data analysis. We’ll work on project-oriented workflows, version control for data science (Git/GitHub!), maintaining your R installation, and how to plan for collaboration, communication, and iteration (incl. RMarkdown).
 
 At the conclusion of the workshop, you should have: knowledge of your R installation that enhances your ability to maintain it, workflows that facilitate collaboration with yourself or others (including version control and strategies for file systems), tools to improve debugging processes, and methods to address repetitive tasks with the purrr package.
 
@@ -35,21 +35,23 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 
 ### Project-oriented workflow (2 sessions)
 
-- Define an RStudio **P**roject.
+- Establish the concept of the project as the basic organizational unit of work.
+  RStudio offer rich support for this way of working via **P**rojects.
 
 - Describe benefits of project oriented workflows.
 
 - Apply best practices for working in RStudio projects, including
 
-   + Creating robust file paths that travel well in time and space (someone else's 
-   computer, your computer a year from now) through the {here} and {fs} packages.
+   + Creating robust file paths that travel well in time and space (someone
+     else's computer, your computer a year from now) with base R and with the
+     {here} and {fs} packages.
    
    + Constructing human and machine readable file names that sort nicely.
 
    + Differentiating workflow elements, analysis inputs, and analysis outputs
-in project structure to create navigable programming interfaces.
+     in project structure to create navigable programming interfaces.
 
-   + Using blank slates and restarting R frequently.
+   + Restarting R frequently, with a blank slate.
 
 
 ### Git/GitHub (2 sessions)
