@@ -35,8 +35,6 @@ At the conclusion of the workshop, you should have: knowledge of your R installa
 
 ### Project-oriented workflow (2 sessions)
 
-- Identify where installed packages live locally.
-
 - Describe benefits of project oriented workflows.
 
 - Apply best practices for working in RStudio projects, including
@@ -71,7 +69,7 @@ resolve them.
 
 ### Personal R Administration (2 sessions)
 
- - Identify where software and configuration files are located on your operating system 
+ - Identify where software, packages, and configuration files are located on your operating system 
  via base R, {fs}, {usethis}, and {devtools} functions.
 
  - Explain the scope and purpose of `.Renviron` and `.Rprofile` configuration files
