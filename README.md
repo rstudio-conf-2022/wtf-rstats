@@ -7,15 +7,6 @@ by Shannon McClintock Pileggi + Jenny Bryan + E. David Aja
 
 -----
 
-INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your
-workshop below. Then, add workshop content in the materials folder and
-link to each session’s materials from the schedule below. You are
-welcomed to add more rows to the schedule. We just ask that you take
-breaks at the specified times. Once you are done adding information, you
-can remove these instructions from the README.
-
------
-
 :spiral_calendar: July 25 and 26, 2022  
 :alarm_clock:     09:00 - 17:00  
 :hotel:           \[ADD ROOM\]  
@@ -28,6 +19,18 @@ can remove these instructions from the README.
 This is a two-day hands on workshop designed for experienced R and RStudio users who want to (re)design their R lifestyle. You'll learn holistic workflows that address the most common sources of friction in data analysis. We’ll work on project-oriented workflows, version control for data science (Git/GitHub!), maintaining your R installation, and how to plan for collaboration, communication, and iteration (incl. RMarkdown).
 
 At the conclusion of the workshop, you should have: knowledge of your R installation that enhances your ability to maintain it, workflows that facilitate collaboration with yourself or others (including version control and strategies for file systems), tools to improve debugging processes, and methods to address repetitive tasks with the purrr package.
+
+-----
+
+## Is this course for me?
+
+This course will be appropriate for you if you answer yes to these questions:
+
+- Have you been using R for a while and feel there might be better ways to organize your R life, but don't know what they are?
+
+- Do you want to streamline your workflow for doing analysis and automating repetitive tasks in R?
+
+- Are you willing to get into the weeds of your R installation, project organization, error messages, and source code?
 
 -----
 
@@ -126,24 +129,11 @@ as an alternative to loops.
 
 -----
 
-## Is this course for me?
-
-This course will be appropriate for you if you answer yes to these questions:
-
-- Have you been using R for a while and feel there might be better ways to organize your R life, but don't know what they are?
-
-- Do you want to streamline your workflow for doing analysis and automating repetitive tasks in R?
-
-- Are you willing to get into the weeds of your R installation, project organization, error messages, and source code?
-
------
-
 ## Prework
 
 Please follow Happy Git and GitHub for the UseR [Ch 3.1 Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up).
 
-If you have questions, please ask on the community.rstudio.com thread. 
-<need to create>
+If you have questions, please ask on the community.rstudio.com thread. (_link coming soon_)
 
 -----
 
