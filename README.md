@@ -141,27 +141,27 @@ If you have questions, please ask on the community.rstudio.com thread. (_link co
 
 ### Day 1
 
-| Time          | Activity         |
-| :------------ | :--------------- |
-| 09:00 - 10:30 | Project-oriented workflow 1 of 2       |
-| 10:30 - 11:00 | *Coffee break*   |
-| 11:00 - 12:30 | Project-oriented workflow 2 of 2        |
-| 12:30 - 13:30 | *Lunch break*    |
-| 13:30 - 15:00 | Debugging        |
-| 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | Git/GitHub 1 of 2      |
+| Time          | Activity         | Instructor      |
+| :------------ | :--------------- |:--------------- |
+| 09:00 - 10:30 | Project-oriented workflow 1 of 2 | Shannon Pileggi |
+| 10:30 - 11:00 | *Coffee break*   | |
+| 11:00 - 12:30 | Project-oriented workflow 2 of 2 |Shannon Pileggi |
+| 12:30 - 13:30 | *Lunch break*    | |
+| 13:30 - 15:00 | Debugging        | Shannon Pileggi |
+| 15:00 - 15:30 | *Coffee break*   | |
+| 15:30 - 17:00 | Git/GitHub 1 of 2  | Jenny Bryan |
 
 ### Day 2
 
-| Time          | Activity         |
-| :------------ | :--------------- |
-| 09:00 - 10:30 | Personal R Administration 1 of 2        |
-| 10:30 - 11:00 | *Coffee break*   |
-| 11:00 - 12:30 | Personal R Administration 2 of 2        |
-| 12:30 - 13:30 | *Lunch break*    |
-| 13:30 - 15:00 | Git/GitHub 2 of 2        |
-| 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | Iterating well with purrr        |
+| Time          | Activity         | Instructor      |
+| :------------ | :--------------- |:--------------- |
+| 09:00 - 10:30 | Personal R Administration 1 of 2 | David Aja |
+| 10:30 - 11:00 | *Coffee break*   | |
+| 11:00 - 12:30 | Personal R Administration 2 of 2 | David Aja |
+| 12:30 - 13:30 | *Lunch break*    | |
+| 13:30 - 15:00 | Git/GitHub 2 of 2 | Jenny Bryan |
+| 15:00 - 15:30 | *Coffee break*   | |
+| 15:30 - 17:00 | Iterating well with purrr | Shannon Pileggi |
 
 -----
 
