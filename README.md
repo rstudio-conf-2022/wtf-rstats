@@ -18,8 +18,8 @@ David Aja
 
 Please follow Happy Git and GitHub for the UseR [Ch 3.1 Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up).
 
-If you have questions, please ask on the community.rstudio.com thread.
-(*link coming soon*)
+If you have questions, please ask on the community.rstudio.com thread: [https://community.rstudio.com/t/what-they-forgot-to-teach-you-about-r-workshop-rstudio-conf-2022/138999](https://community.rstudio.com/t/what-they-forgot-to-teach-you-about-r-workshop-rstudio-conf-2022/138999).
+
 
 ------------------------------------------------------------------------
 
