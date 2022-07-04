@@ -1,10 +1,8 @@
 ## Day 1, Session 3
 
-Session: Debugging
+### Debugging With Shannon Pileggi
 
-Who: Shannon Pileggi
-
-Learning objectives
+### Learning objectives
 
 * Review code troubleshooting tips.
 
@@ -13,18 +11,18 @@ Learning objectives
 * Distinguish between strategies for debugging your own code versus someone else's code.
 
   
-Slides
+### Slides
 
 <https://rstats-wtf.github.io/wtf-debugging-slides/>
  
   
-Exercises
+### Exercises
 
 `usethis::use_course("rstats-wtf/wtf-debugging")`
 
 Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-debugging>
 
-Additional Resources
+### Additional Resources
 
 -   WTF Ch 11 *Debugging R code* <https://rstats.wtf/debugging-r-code.html>
 
@@ -34,8 +32,7 @@ Additional Resources
 
 -   Amanda Gadrow 2018 Webinar *Debugging techniques in RStudio*  <https://www.rstudio.com/resources/webinars/debugging-techniques-in-rstudio/>
 
--   Jim Hester 2019 *Introduction to debugging in R and RStudio* 
-<https://www.jimhester.com/talk/2019-crug-debugging/>
+-   Jim Hester 2019 *Introduction to debugging in R and RStudio* <https://www.jimhester.com/talk/2019-crug-debugging/>
 
 -   Maëlle Salmon 2021 *How to become a better R code detective?*  <https://masalmon.eu/2021/07/13/code-detective/>
 
