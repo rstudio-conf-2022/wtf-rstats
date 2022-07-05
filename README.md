@@ -65,7 +65,7 @@ If you have questions in advance of the workshop, please ask on the **RStudio Co
 | Instructor | David Aja       | [edavidaja.com](https://edavidaja.com/)             | [edavidaja](https://github.com/edavidaja)      | [@peeltothepithy](https://twitter.com/peeltothepithy) |
 | TA         | Amanda Gadrow   |                                                     |                | [@ajmcoqui](https://twitter.com/ajmcoqui)                 |
 | TA         | Ryan Johnson    |                                                     |                | [@ryjohnson09](https://twitter.com/ryjohnson09)              |
-| TA         | Andrie de Vries |                                                     |                | [@RevoAndrie](https://twitter.com/RevoAndrie)                 |
+| TA         | Andrie de Vries |                                                     | [andrie](https://github.com/andrie)               | [@RevoAndrie](https://twitter.com/RevoAndrie)                 |
 | TA         | Daniel Sjoberg  |  [danieldsjoberg.com](https://www.danieldsjoberg.com/) | [ddsjoberg](https://github.com/ddsjoberg)      |[@statistishdan](https://twitter.com/statistishdan)  |
 | TA         | Crystal Lewis   |                                                     | [Cghlewis](https://github.com/Cghlewis)       | [@Cghlewis](https://twitter.com/Cghlewis)                 |
 
