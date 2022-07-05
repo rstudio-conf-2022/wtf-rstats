@@ -1,6 +1,6 @@
 ## Day 1, Session 3
 
-### Debugging With Shannon Pileggi
+### Debugging, with Shannon Pileggi
 
 ### Learning objectives
 

@@ -1,27 +1,33 @@
 ## Day 2, Session 4
 
-Who: Shannon Pileggi
+### Iterating well with purrr, with Shannon Pileggi
 
-Agenda
+### Learning objectives
 
-  * Iterating well with purrr
-  * Conclusion
-  
-Slides
+* Briefly discuss iterative techniques that do not require loops or `purrr::map_` (for example, group_by, vectorized functions, etc.
 
-  * [purrr.pdf](materials/purrr.pdf)
-  * [wtf-closing.pdf](materials/wtf-closing.pdf)
-  
-Activity prompts
+* Explore lists as an object to store information of varying types and sizes; explain how to extract elements from a list.
 
-  * *appear in the slides*
-    * [Kara's live code](materials/kara_live_code) ([source](https://github.com/rstudio-conf-2020/what-they-forgot/blob/master/materials/kara_live_code.R))
-    
-Resources
+* Apply functions from the `purrr::map_` family to perform iteration as an alternative to loops.
 
-  * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/)
 
-reprex bonus content *just in case this comes up*
+### Slides
 
-  * [reprex.tidyverse.org](https://reprex.tidyverse.org/index.html)
-  * Webinar: [Screencast and PDF of slides](https://reprex.tidyverse.org/articles/articles/learn-reprex.html), [code snippets](https://github.com/tidyverse/reprex/tree/master/slides/2018-09_reprex-rstudio-webinar)
+<https://rstats-wtf.github.io/wtf-purrr-slides>
+
+### Exercises
+
+* *appear in the slides*
+
+### Additional Resources
+
+
+-   Jenny Bryan purrr tutorial <https://jennybc.github.io/purrr-tutorial/>
+
+-   Charlotte Wickham purrr tutorial <https://github.com/cwickham/purrr-tutorial>
+
+-   Jenny Bryan row-oriented workflows workshop <https://github.com/jennybc/row-oriented-workflows>
+
+-   Advanced R by Hadley Wickham, Ch 9 Functionals <https://adv-r.hadley.nz/functionals.html>
+
+-   The Joy of Functional Programming (for Data Science) webinar by Hadley Wickham  <https://www.youtube.com/watch?v=bzUmK0Y07ck>
