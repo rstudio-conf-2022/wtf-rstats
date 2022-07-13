@@ -13,7 +13,11 @@
 
 ### Slides
 
-<https://rstats-wtf.github.io/wtf-purrr-slides>
+* view slides in your web browser:
+
+- <https://rstats-wtf.github.io/wtf-purrr-slides>
+
+* download pdf _coming soon_
 
 ### Exercises
 

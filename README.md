@@ -41,7 +41,7 @@ If you have questions in advance of the workshop, please ask on the **RStudio Co
 |:--------------|:------------------------------------------------|:----------------|
 | 09:00 - 10:30 | [1_1: Project-oriented workflow 1 of 2](day1_1) | Shannon Pileggi |
 | 10:30 - 11:00 | *Coffee break*                                  |                 |
-| 11:00 - 12:30 | [1_2: Project-oriented workflow 2 of 2](day1_2) | Shannon Pileggi |
+| 11:00 - 12:30 | [1_2: Project-oriented workflow 2 of 2](day1_1) | Shannon Pileggi |
 | 12:30 - 13:30 | *Lunch break*                                   |                 |
 | 13:30 - 15:00 | [1_3: Debugging](day1_3)                        | Shannon Pileggi |
 | 15:00 - 15:30 | *Coffee break*                                  |                 |

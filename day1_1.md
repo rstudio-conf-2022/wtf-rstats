@@ -1,13 +1,15 @@
-## Day 1, Session 1
+## Day 1, Sessions 1 & 2
 
-Who: Shannon Pileggi
-
-Agenda
+### Agenda
 
   * Admin & greetings
   * Project-oriented workflow, part 1 of 2
+  * Project-oriented workflow, part 2 of 2
+
+### Who: Shannon Pileggi
+
   
-Slides
+### Slides
 
   * [wtf-opening.pdf]() _coming soon_
   
@@ -16,7 +18,7 @@ Slides
     - download pdf _coming soon_
     - *note: same PDF is used for sessions 1 and 2*
   
-Activity prompts
+### Activity prompts
 
   * [What's your OS?](https://github.com/rstudio-conf-2022/wtf-rstats/issues/3)
   * `use_course("rstats-wtf/wtf-explore-libraries")`
@@ -27,7 +29,7 @@ Activity prompts
     - No luck? Get the files in this repo: <https://github.com/wtf-packages-report>
 
 
-Resources
+### Resources
 
   * Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, et al. (2017) Good enough practices in scientific computing. PLOS Computational Biology 13(6): e1005510.
     - <https://doi.org/10.1371/journal.pcbi.1005510>
