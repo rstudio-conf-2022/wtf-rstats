@@ -18,7 +18,7 @@ Slides
   
 Activity prompts
 
-  * [What's your OS?](https://github.com/rstudio-conf-2020/what-they-forgot/issues/21)
+  * [What's your OS?](https://github.com/rstudio-conf-2022/wtf-rstats/issues/3)
   * `use_course("rstats-wtf/wtf-explore-libraries")`
     - No luck? Get the files in this repo: <https://github.com/rstats-wtf/wtf-explore-libraries>
   * `use_course("rstats-wtf/wtf-explore-libraries")`
