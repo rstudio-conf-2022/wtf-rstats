@@ -1,6 +1,6 @@
 ## Day 2, Session 1
 
-Who: David Aja
+Who: E. David Aja
 
 Agenda
 
@@ -10,12 +10,7 @@ Agenda
 
 Slides
 
-  * [R-startup](materials/R-startup.pdf)
-
-Activity prompts
-
-  * `usethis::use_course("rstd.io/wtf-startup")`
-    - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-startup>
+  * https://rstats-wtf.github.io/wtf-personal-radmin-slides
 
 Resources
 
