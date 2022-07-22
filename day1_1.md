@@ -11,11 +11,10 @@
   
 ### Slides
 
-  * [wtf-opening.pdf]() _coming soon_
+  * [wtf-opening.pdf](materials/wtf-opening-2022.pdf) _coming soon_
   
   * project-oriented-workflow
     - view slides in your web browser: <https://rstats-wtf.github.io/wtf-project-oriented-workflow-slides/>
-    - download pdf _coming soon_
     - *note: same PDF is used for sessions 1 and 2*
   
 ### Activity prompts
