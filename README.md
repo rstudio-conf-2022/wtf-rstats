@@ -7,10 +7,10 @@ David Aja
 
 ------------------------------------------------------------------------
 
-:spiral_calendar: July 25 and 26, 2022  
-:alarm_clock: 09:00 - 17:00  
-:hotel: [ADD ROOM]  
-:writing_hand: [rstd.io/conf](http://rstd.io/conf)
+🗓️ July 25 and 26, 2022  
+⏰ 09:00 - 17:00  
+🏨 [ADD ROOM]  
+✍️ [rstd.io/conf](http://rstd.io/conf)
 
 ------------------------------------------------------------------------
 
