@@ -16,8 +16,7 @@
 * view slides in your web browser:
   - <https://rstats-wtf.github.io/wtf-debugging-slides/>
    
-* download pdf _coming soon_
- 
+
   
 ### Exercises
 

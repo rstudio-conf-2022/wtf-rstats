@@ -17,8 +17,6 @@
 
 - <https://rstats-wtf.github.io/wtf-purrr-slides>
 
-* download pdf _coming soon_
-
 ### Exercises
 
 * *appear in the slides*
