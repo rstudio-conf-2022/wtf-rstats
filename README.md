@@ -5,6 +5,8 @@
 by Shannon McClintock Pileggi + Jenny Bryan + E.
 David Aja
 
+[rstd.io/wtf-2022-rsc](rstd.io/wtf-2022-rsc) <– The One True URL that links to everything!
+
 ------------------------------------------------------------------------
 
 🗓️ July 25 and 26, 2022  
