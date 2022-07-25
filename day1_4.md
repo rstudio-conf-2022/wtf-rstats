@@ -5,41 +5,21 @@ Who: Jenny Bryan
 Agenda
 
   * Intro to GitHub and Git, with RStudio
-  * Using R Markdown and R with Git, GitHub, and RStudio (if time permits)
   
 Slides
 
   * [git-and-github-early-usage.pdf](materials/git-and-github-early-usage.pdf)
   
-Activity prompts
+Happy Git content related to our activities
 
-*Instructor will lead the group through the first 2-3 activities. The remaining prompts are here in case we finish early (ha!) or if those activities are a bit too basic and you'd rather accumulate more practice by porting your morning's work in Git/GitHub.*
+*Instructor will lead the group through hands-on exercises.*
 
   * [Set up (or verify) a PAT for HTTPS](https://happygitwithr.com/https-pat.html)
   * [New project, GitHub first](https://happygitwithr.com/new-github-first.html)
+  * [Existing project, GitHub first](https://happygitwithr.com/existing-github-first.html)
+  * [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html)
   * [Test drive R Markdown](https://happygitwithr.com/rmd-test-drive.html)
   * [Render an R script](https://happygitwithr.com/r-test-drive.html)
-
-  * Port your `packages-report` project into a GitHub-synced repo
-    - Keep working in the project we initiated on GitHub, then cloned, and
-      practiced in.
-      Or start with your existing local project and push it up to GitHub using
-      either the [Existing project, GitHub first](https://happygitwithr.com/existing-github-first.html)
-      or [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html) workflow.
-    - Go through several cycles of: bring R script over, commit & push, execute
-      script, see the outputs appear, commit and push, etc.
-    - Play with rendering to `.md` if you like.
-    - Finish it off with a good README.
-  * The project you downloaded earlier today, via
-    `use_course("rstd.io/wtf-packages-report")`, provides everything you need to
-    finish this off, i.e. `shhh-secret-for-later-README.Rmd` is a nice start
-    for a README. *TODO: verify/update for 2022*
-  * The finished product I showed you is here:
-    <https://github.com/rstats-wtf/wtf-packages-report-EXAMPLE>
-    *TODO: verify/update for 2022*
-  * A version from Jim Hester that include a proper Makefile
-    <https://github.com/jimhester/my-packages/tree/jims>
-    *TODO: verify/update for 2022*
   
 Resources
 
