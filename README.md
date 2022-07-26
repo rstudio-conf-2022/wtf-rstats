@@ -5,7 +5,7 @@
 by Shannon McClintock Pileggi + Jenny Bryan + E.
 David Aja
 
-[rstd.io/wtf-2022-rsc](rstd.io/wtf-2022-rsc) <– The One True URL that links to everything!
+[rstd.io/wtf-2022-rsc](https://rstd.io/wtf-2022-rsc) <– The One True URL that links to everything!
 
 ------------------------------------------------------------------------
 
