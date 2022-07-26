@@ -17,6 +17,7 @@
 
 - <https://rstats-wtf.github.io/wtf-purrr-slides>
 
+* [wtf-closing.pdf](materials/wtf-closing-2022.pdf) 
 ### Exercises
 
 * *appear in the slides*
