@@ -1,3 +1,5 @@
+*2022-08-10 @jennybc archived this repository ("Mark this repository as archived and read-only."), so that it reflects the WTF workshop as delivered at rstudio::conf(2022). The same content and history reside at <https://github.com/rstats-wtf/wtf-2022-rsc>, in an unarchived form. The primary home for WTF materials (workshops, website, exercises, etc.) is in the [rstats-wtf GitHub Organization](https://github.com/rstats-wtf).*
+
 # What They Forgot to Teach You About R
 
 ### rstudio::conf 2022
